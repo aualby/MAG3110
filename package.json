@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/aualby/MAG3110/issues"
   },
-  "homepage": "https://github.com/aualby/MAG3110#readme"
+  "homepage": "https://github.com/aualby/MAG3110#readme",
+  "dependencies": {
+    "i2c-bus": "^5.0.0"
+  }
 }
